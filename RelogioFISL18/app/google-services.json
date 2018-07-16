@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "744772420018",
+    "firebase_url": "https://fisl-poa-2018.firebaseio.com",
+    "project_id": "fisl-poa-2018",
+    "storage_bucket": "fisl-poa-2018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744772420018:android:6755a549e97b9f86",
+        "android_client_info": {
+          "package_name": "com.example.ricardoogliari.relogiofisl18"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744772420018-vpmohlr8a60lfhbtu2il43sj33eqrmfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK06KMwb_yE8lbn85I_VJJw-XoIKhCY3o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744772420018:android:baf5fa9bb3191595",
+        "android_client_info": {
+          "package_name": "estudos.com.relogiofisl18"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744772420018-8g4v6bo65nsidhbfumsnc4sg98i8uoki.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "estudos.com.relogiofisl18",
+            "certificate_hash": "fb64fb34a2623c24a40a5f13687c7045e6e44335"
+          }
+        },
+        {
+          "client_id": "744772420018-vpmohlr8a60lfhbtu2il43sj33eqrmfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK06KMwb_yE8lbn85I_VJJw-XoIKhCY3o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744772420018-vpmohlr8a60lfhbtu2il43sj33eqrmfn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
