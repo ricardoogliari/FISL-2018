@@ -3,7 +3,7 @@ board = new five.Board();
 
 var firebase = require('firebase');
 var config = {
-    apiKey: "AIzaSyBOTL56TVrnSRE-k5ArFdI8AnzT5Pr7jOM",
+    apiKey: "AIzaSyBOTL56TVrnSRE-k5A_sua_api_key",
     authDomain: "fisl-poa-2018.firebaseapp.com",
     databaseURL: "https://fisl-poa-2018.firebaseio.com",
     projectId: "fisl-poa-2018",
